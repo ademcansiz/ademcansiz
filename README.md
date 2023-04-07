@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **React, Vue**
 
 - 👨‍💻 All of my projects are available at [https://ademcansiz.netlify.app/](https://ademcansiz.netlify.app/)
 
